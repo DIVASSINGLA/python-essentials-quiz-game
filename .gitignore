@@ -1,0 +1,7 @@
+
+### `.gitignore`
+
+```gitignore
+__pycache__/
+*.py[cod]
+quiz_results.json
